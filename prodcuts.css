@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    color: yellow;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+/*navbar*/
+/* .navv{
+    background-color: yellow;
+    margin: 0px;
+} */
+.navbar{
+    width: 40%;
+    margin: auto;
+    height: 50px;
+    margin-top: 0px;
+}
+.navbar ul{
+    list-style-type: none;
+    margin-top: 0;
+}
+.navbar li{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.navbar a{
+    color:yellow;
+    text-decoration: none;
+}
+.navbar a:hover{
+    color: orange;
+}
+
+/*Content*/
+.content{
+    width: 100%;
+}
+.sidenav{
+    margin: 0;
+    width: 20%;
+    background-color: yellow;
+    color: black;
+    height: 100vh;
+    /* padding-left: 10px; */
+    float: left;
+}
+.sidenav ul{
+    list-style-type: none;
+}
+.sidenav a{
+    text-decoration: none;
+    color: black;
+}
+.productlist{
+    width: 80%;
+    float: left;
+}
+.material-icons{
+    font-size: 20px;
+}
+
+.product-card{
+    padding: 12px;
+    width: 18%;
+    float: left;
+
+}

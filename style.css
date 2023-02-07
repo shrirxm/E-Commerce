@@ -1,0 +1,69 @@
+/*home*/
+    body{
+        background-color: black;
+        color: yellow;
+        font-family: 'Poppins', sans-serif;
+    }
+    /*navbar*/
+    .navbar{
+        width: 40%;
+        margin: auto;
+        height: 50px;
+    }
+    .navbar ul{
+        list-style-type: none;
+    }
+    .navbar li{
+        float: left;
+        width: 25%;
+        text-align: center;
+    }
+    .navbar a{
+        color: yellow;
+        text-decoration: none;
+    }
+    .navbar a:hover{
+        color: orange;
+    }
+    /*content*/
+    .content{
+        width: 80%;
+        margin: auto;
+    }
+    .features{
+        margin-top: 150px;
+        height: 250px;
+        padding: 40px 0px;
+        background-color: #1A1A1A;
+        
+    }
+    .ach{
+        margin-top: 150px;
+        height: 250px;
+        padding: 40px 0px;
+        background-color: #1A1A1A;
+        
+    }
+    
+    .card{
+        width: 33.33%;
+        float: left;
+    }
+    .material-icons{
+        font-size: 100px;
+    }
+    #shop{
+   background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    padding: 15px 30px;
+    border-radius: 40px;
+    font-weight: bold;
+    font-size: 30px;
+    
+    }
+    #shop:hover{
+        font-size: 32px;
+    }
+    footer{
+        text-align: center;
+    }
