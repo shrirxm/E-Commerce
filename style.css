@@ -51,6 +51,7 @@
     }
     .material-icons{
         font-size: 100px;
+        color: yellow;
     }
     #shop{
    background: rgb(131,58,180);
@@ -67,3 +68,11 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
     footer{
         text-align: center;
     }
+    a{
+        color:yellow;
+        text-decoration: none;
+    }
+    .product-card a{
+        color:yellow;
+    }
+    
